@@ -128,4 +128,5 @@ How to Contribute
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## 📬 Contact
-For questions or feedback, reach out at: sahilsinghm32@gmail.com
+For questions or feedback, reach out at: sathambirru777@gmail.com
+
